@@ -1,0 +1,43 @@
+<html>
+<html>
+  <head>
+   <title>
+     Background
+     Horizontal
+   </title>
+  </head>
+  <body>
+    <body bgcolor=white>
+      <h1><CENTER> SPURS WEBSITE</h1></CENTER>
+      <h1><CENTER> </h1></CENTER>
+      <hr>
+   This is a website on Tottenham Hotspur F.C. (the best) by Manith Eppalapally <P>
+   </P>
+     <FONT FACE="COMIC SANS MS">
+    <h2> #COYS</h2>
+    </FONT>
+  </body>
+</html>
+
+<script>
+  alert ("NO ARSENAL OR LIVERPOOL FANS (OR GLORYHUNTERS)!")
+  var name = prompt ("Good Day, what is your name?");
+  var age = prompt ("Do you like football, also known as soccer in some countries?")
+  var team = prompt ("What team do you support?")
+  </script>
+  
+<hr> <br>
+<img 
+src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnSWbqGemCqfWASikZ8_tSTD4NmMHzp-6Tbh1xpGTylL8cS0P"> </img> 
+<HR> <BR>
+
+Click on the link below to go to the Spurs' Official website <P>
+  <A HREF="https://www.tottenhamhotspur.com"> The Spurs site </A>
+
+
+<body bgcolor="#89CFF0">
+	<table border="2%" width="100%" align="center" bgcolor="#A9A9B0" bordercolor="black">
+		<tr>
+			<td width="25%" align="center"><a href="Full team 2018-19.html">Full team 2018-19</a></td>
+			<td width="25%" align="center"><a href="Competition Results 2018-19.html">Competition Results 2018-19</a></td>
+      <td width="25%" align="center"><a href="PL Fixtures 2019-20.html">PL Fixtures 2019-20</a></td>
